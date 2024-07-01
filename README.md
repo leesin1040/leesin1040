@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,react,redux,elasticsearch,mysql,mongodb,git,docker&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,notion,obsidian,ps,discord&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,obsidian,discord&theme=light)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesin1040&layout=compact)
